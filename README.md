@@ -4,4 +4,4 @@ Simulation graphique de la gravitation en 2D développée en C avec SDL2. Le pro
 
 ## Résultat
 
-![Simulation gravitationnelle](images/Capture%20d'écran%202026-10-13%20130525.png)
+![Simulation gravitationnelle](capture.png)
